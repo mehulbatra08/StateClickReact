@@ -1,0 +1,8 @@
+Container
+Number Show krna hai
+2 button daalne hain
+1st button ke andar ek onClick function daalna hai
+2st button ke andar ek onClick function daalna hai
+1st button ke liye ek incremental function bnana
+2nd button ke liye ek decremental function bnana
+2nd button mein ek if condition daalni hai ki jo function bana hai woh 0 se neeche nahi jayega
